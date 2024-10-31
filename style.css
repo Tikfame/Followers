@@ -1,0 +1,118 @@
+body {
+    width: 100%;
+    height :100%;
+    padding: 0;
+    margin:0;
+}
+
+#f_h2 {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: -25px;
+  
+}
+
+#input {
+  width: 80%;
+  margin-left: 10%;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing :border-box;
+  outline: none;
+}
+
+#sinput {
+  width: 80%;
+  margin-left: 10%;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+#tinput {
+  width: 80%;
+  margin-left: 10%;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+#button {
+    width: 80%;
+    margin-left: 10%;
+    padding: 12px;
+    margin-bottom: 20px;
+    box-sizing :border-box;
+    background-color: #424242;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+#pop {
+  display: none;
+  font-size: 13px;
+  margin-top: -15px;
+  color: red;
+  margin-left: 10%;
+}
+
+#po {
+  display: none;
+  font-size: 13px;
+  margin-top: -15px;
+  color: red;
+  margin-left: 10%;
+}
+
+#popo {
+  display: none;
+  font-size: 13px;
+  margin-top: -15px;
+  color: red;
+  margin-left: 10%;
+}
+
+#dp {
+  width: 80%;
+  margin-left: 10%;
+  font-size: 15px;
+  margin-top: 10px;
+  color: #424242;
+}
+
+#ip {
+  width: 80%;
+  margin-left: 10%;
+  font-size: 15px;
+  margin-top: 10px;
+  color: #424242;
+}
+
+#pd {
+  border: 1px solid black;
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 5px;
+  margin-top: 50px;
+  height: 150px;
+  overflow-y: scroll;
+}
+
+#h {
+  margin-left: 10%;
+}
+
+img {
+  width: 20%;
+  margin-left: 40%;
+
+}
+
+#fo {
+  margin-top: 12%;
+}
